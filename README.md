@@ -1,2 +1,2 @@
 # learning-crystal
-List of projects to learn crystal language
+List of projects to learn the crystal language
